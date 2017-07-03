@@ -1,0 +1,6 @@
+C:\GitHub\SPFDataCorrector\SPFDataCorrector\bin\Debug\SPFDataCorrector.exe.config
+C:\GitHub\SPFDataCorrector\SPFDataCorrector\bin\Debug\SPFDataCorrector.exe
+C:\GitHub\SPFDataCorrector\SPFDataCorrector\bin\Debug\SPFDataCorrector.pdb
+C:\GitHub\SPFDataCorrector\SPFDataCorrector\obj\Debug\SPFDataCorrector.csprojResolveAssemblyReference.cache
+C:\GitHub\SPFDataCorrector\SPFDataCorrector\obj\Debug\SPFDataCorrector.exe
+C:\GitHub\SPFDataCorrector\SPFDataCorrector\obj\Debug\SPFDataCorrector.pdb
